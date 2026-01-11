@@ -3,8 +3,8 @@
 # Alejandro Ortiz
 
 **Front-End Engineer** • Building Beautiful, Fast, User-Centric Interfaces
+</div>
 
-<br />
 ## About Me
 
 Hi! I'm a Computer Science student at Northeastern University. Typescript enthusiast and I love making crafting polished, performant user interfaces. Passionate about creating web experiences that are visually stunning, intuitive to use, and technically excellent. 
