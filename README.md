@@ -97,10 +97,8 @@ An offline-first task management application with real-time synchronization acro
 
 ## Currently
 
-**Learning:** Advanced animation techniques with Framer Motion and GSAP
-
-**Building:** Interactive data visualization libraries
-
+**Learning:** Advanced animation techniques with Framer Motion and GSAP 
+**Building:** Interactive data visualization libraries 
 **Reading:** Refactoring UI, Laws of UX
 
 <br />
