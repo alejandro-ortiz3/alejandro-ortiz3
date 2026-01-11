@@ -21,7 +21,7 @@ Beautiful design 🤝 fast code.
 Built the front-end for an AI-powered PCB design platform from the ground up using React, TypeScript, and shadcn/ui.
 
 - Led end-to-end implementation of interactive board layout interfaces with dynamic component-driven workflows
-- Translated Figma designs into pixel-perfect, accessible interfaces for complex engineering workflows
+- Created & translated Figma designs into pixel-perfect, accessible interfaces for complex engineering workflows
 - Established development workflows with feature branches, PRs, and code reviews for reliable deployments
 - Designed reusable component systems to ensure consistency and long-term scalability
 
