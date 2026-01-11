@@ -5,15 +5,6 @@
 **Front-End Engineer** • Building Beautiful, Fast, User-Centric Interfaces
 
 <br />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-</div>
-
----
-
 ## About Me
 
 Hi! I'm a Computer Science student at Northeastern University. Typescript enthusiast and I love making crafting polished, performant user interfaces. Passionate about creating web experiences that are visually stunning, intuitive to use, and technically excellent. 
@@ -107,13 +98,7 @@ An offline-first task management application with real-time synchronization acro
 
 Open to collaborating on front-end projects, discussing UI/UX, or just talking about what makes great interfaces great.
 
-**Email:** your.email@example.com  
-**LinkedIn:** [linkedin.com/in/yourprofile](YOUR_LINKEDIN_URL)
+**Email:** oalejandro335@gmail.com 
+**LinkedIn:** [linkedin.com/in/alejandroivanortiz)
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0A66C2&style=flat)
-
-</div>
