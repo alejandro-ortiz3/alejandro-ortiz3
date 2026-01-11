@@ -1,10 +1,6 @@
-<div align="center">
-
 # Alejandro Ortiz
 
 **Front-End Engineer** • Building Beautiful, Fast, User-Centric Interfaces
-
-</div>
 
 ## About Me
 
