@@ -82,7 +82,13 @@ An offline-first task management application with real-time synchronization acro
 
 Open to collaborating on front-end projects, discussing UI/UX, or just talking about what makes great interfaces great.
 
-**Email:** oalejandro335@gmail.com  
-**LinkedIn:** [linkedin.com/in/alejandroivanortiz](https://linkedin.com/in/alejandroivanortiz)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandro-ortiz3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandroivanortiz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oalejandro335@gmail.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](alejandroivanortiz.com)
+
+</div>
 
 ---
