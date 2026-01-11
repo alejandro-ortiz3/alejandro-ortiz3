@@ -83,16 +83,6 @@ An offline-first task management application with real-time synchronization acro
 - Custom React hooks for undo/redo functionality
 - Normalized state management for complex task hierarchies
 
-<br />
-
-## Currently
-
-**Learning:** Advanced animation techniques with Framer Motion and GSAP  
-**Building:** Interactive data visualization libraries  
-**Reading:** Refactoring UI, Laws of UX
-
-<br />
-
 ## Let's Connect
 
 Open to collaborating on front-end projects, discussing UI/UX, or just talking about what makes great interfaces great.
