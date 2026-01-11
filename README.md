@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hi! I'm a <bold>Computer Science</bold> student at <bold>Northeastern University</bold> and TypeScript enthusiast. I love crafting polished, performant user interfaces. Passionate about creating web experiences that are visually stunning, intuitive to use, and technically excellent. 
+Hi! I'm a <Strong>Computer Science</Strong> student at <Strong>Northeastern University</Strong> and TypeScript enthusiast. I love crafting polished, performant user interfaces. Passionate about creating web experiences that are visually stunning, intuitive to use, and technically excellent. 
 
 Beautiful design 🤝 fast code.
 <br />
