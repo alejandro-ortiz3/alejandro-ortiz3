@@ -11,8 +11,8 @@
 Hi! I'm a Computer Science student at Northeastern University. TypeScript enthusiast and I love crafting polished, performant user interfaces. Passionate about creating web experiences that are visually stunning, intuitive to use, and technically excellent. 
 
 Beautiful design 🤝 fast code.
-
 <br />
+
 ## Experience
 
 ### Software Engineer Intern, Front-End  🟢
@@ -57,8 +57,6 @@ Built the front-end for an AI-powered PCB design platform from the ground up usi
 
 A high-performance analytics platform processing 10,000+ securities with interactive visualizations, achieving 60fps through virtualized scrolling and canvas-based rendering.
 
-[View Project →](https://github.com/YOUR_USERNAME/portfolio-analytics)
-
 **Technical Highlights:**
 - Sub-100ms render times with Canvas API optimization
 - Interactive D3.js correlation matrices with zoom/pan controls
@@ -72,8 +70,6 @@ A high-performance analytics platform processing 10,000+ securities with interac
 **Real-time task system • React, TypeScript, Supabase, IndexedDB, Tailwind CSS**
 
 An offline-first task management application with real-time synchronization across multiple clients, featuring optimistic UI updates and seamless conflict resolution.
-
-[View Project →](https://github.com/YOUR_USERNAME/task-platform)
 
 **Technical Highlights:**
 - Offline-first architecture with IndexedDB persistence
