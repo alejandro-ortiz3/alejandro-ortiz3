@@ -90,9 +90,3 @@ Open to collaborating on front-end projects, discussing UI/UX, or just talking a
 **LinkedIn:** [linkedin.com/in/alejandroivanortiz](https://linkedin.com/in/alejandroivanortiz)
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0A66C2&style=flat)
-
-</div>
