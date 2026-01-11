@@ -11,7 +11,7 @@ Beautiful design 🤝 fast code.
 
 ## Experience
 
-### Software Engineer Intern, Front-End  🟢
+### 🟢  Software Engineer Intern, Front-End  🟢
 **ViaEngineering** • Remote • *May 2025 – Aug 2025*
 
 Built the front-end for an AI-powered PCB design platform from the ground up using React, TypeScript, and shadcn/ui.
@@ -48,7 +48,7 @@ Built the front-end for an AI-powered PCB design platform from the ground up usi
 
 ## Featured Work
 
-### Portfolio Analytics Engine  🟢
+### 🟢  Portfolio Analytics Engine  🟢
 **Real-time financial dashboard • React, TypeScript, D3.js, Canvas API, Tailwind CSS**
 
 A high-performance analytics platform processing 10,000+ securities with interactive visualizations, achieving 60fps through virtualized scrolling and canvas-based rendering.
@@ -62,7 +62,7 @@ A high-performance analytics platform processing 10,000+ securities with interac
 
 ---
 
-### Collaborative Task Management Platform  🟢
+### 🟢  Collaborative Task Management Platform  🟢
 **Real-time task system • React, TypeScript, Supabase, IndexedDB, Tailwind CSS**
 
 An offline-first task management application with real-time synchronization across multiple clients, featuring optimistic UI updates and seamless conflict resolution.
