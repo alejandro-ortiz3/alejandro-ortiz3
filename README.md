@@ -11,7 +11,7 @@ Beautiful design 🤝 fast code.
 
 ## Experience
 
-### 🟢  Software Engineer Intern, Front-End  🟢
+### 🟢  Software Engineer Intern  🟢
 **ViaEngineering** • Remote • *May 2025 – Aug 2025*
 
 Built the front-end for an AI-powered PCB design platform from the ground up using React, TypeScript, and shadcn/ui.
