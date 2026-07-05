@@ -46,33 +46,6 @@ Built the front-end for an AI-powered PCB design platform from the ground up usi
 
 <br />
 
-## Featured Work
-
-### 🟢  Portfolio Analytics Engine  🟢
-**Real-time financial dashboard • React, TypeScript, D3.js, Canvas API, Tailwind CSS**
-
-A high-performance analytics platform processing 10,000+ securities with interactive visualizations, achieving 60fps through virtualized scrolling and canvas-based rendering.
-
-**Technical Highlights:**
-- Sub-100ms render times with Canvas API optimization
-- Interactive D3.js correlation matrices with zoom/pan controls
-- Virtualized table rendering 10,000+ rows smoothly
-- Real-time performance monitoring dashboard
-- Sector allocation and risk exposure visualizations
-
----
-
-### 🟢  Collaborative Task Management Platform  🟢
-**Real-time task system • React, TypeScript, Supabase, IndexedDB, Tailwind CSS**
-
-An offline-first task management application with real-time synchronization across multiple clients, featuring optimistic UI updates and seamless conflict resolution.
-
-**Technical Highlights:**
-- Offline-first architecture with IndexedDB persistence
-- Real-time sync using Supabase subscriptions
-- Optimistic UI updates for instant feedback
-- Custom React hooks for undo/redo functionality
-- Normalized state management for complex task hierarchies
 
 ## Let's Connect
 
